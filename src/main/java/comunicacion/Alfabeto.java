@@ -37,7 +37,7 @@ public class Alfabeto extends Pictograma {
     }
 
     @Override
-    String interpretacion() {
+    public String interpretacion() {
         return interpretacion; //To change body of generated methods, choose Tools | Templates.
     }
 
